@@ -1,0 +1,129 @@
+la-pomme.php
+============
+#corp 
+{ 
+    margin: auto;
+    background-color: peru;
+    border : 2px dashed;
+    box-shadow: 3px 3px 10px;
+    width: 700px;
+    height : 700px;
+    padding-bottom: 50px;
+}
+
+#menus
+{
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    background-color: saddlebrown;
+    
+}
+
+.menu
+{
+    
+    background-color: yellow;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 100px;
+    height: 20px;
+    border : 1px solid black;
+    font-family: 'Molle', cursive;
+}
+
+#contenue
+{
+    margin-left: 40px;
+    margin-top: 20px;
+    diplay: inline-block;
+    float: left;
+    background-color: brown;
+    border: 1px solid;
+    height: 500px;
+    width: 300px;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 3px;
+}
+
+#contenue2
+{
+    margin-right: 40px;
+    margin-top: 20px;
+    diplay: inline-block;
+    float: right;
+    background-color: brown;
+    border: 1px solid;
+    height: 500px;
+    width: 300px;
+    box-shadow: 2px 2px 3px;
+    margin-bottom: 20px;
+}
+
+
+.texte
+{
+    
+   font-size: 14px;
+    
+}
+
+header h1
+{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: darkred;  
+    font-size: 45px;
+ 
+}
+
+h1
+{
+       font-family: 'Gabriela', serif;
+    
+}
+
+.textemenu a
+{
+    font-size: 25px;
+    color: maroon;
+    text-decoration: none;
+}
+
+.textemenu a:hover
+{
+    font-size: 25px;
+    color: aliceblue;
+    text-decoration: underline;
+    background-color: sienna;
+    
+}
+
+body
+{
+    background-image: url(pommefond.jpg);
+}
+
+/* Ca c'est le bas du site*/
+footer p
+{
+    diplay: inline-block;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 5px;
+    margin: 5px;
+    margin: auto;
+    text-align: center;
+    background-color: saddlebrown;
+    width: 700px;
+    border: 2px dashed;
+    box-shadow: 3px 3px 10px;
+}
+
